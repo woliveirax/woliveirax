@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @woliveirax
 - 👀 I’m interested in low level programming, networking programming, and security.
-- 🌱 I’m currently learning Golang, netcoding on C++.
+- 🌱 I’m currently learning Golang and netcoding on C++.
 - 💞️ I’m looking to collaborate on C/C++ and reverse engineering projects. (mostly to learn as I go along)
 - 📫 How to reach me wallace9655@gmail.com
 
